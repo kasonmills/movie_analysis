@@ -1,35 +1,31 @@
 # movie_analysis
-This is a simple code to analyze movies contained in a data base and to ask questions regarding the data 
-
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description of the data set that you are analyzing.  Include the link of where you obtained the data.}
-
-{Describe your purpose for writing this software to analyze the data.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the data set, the questions and answers, the code running and a walkthrough of the code.}
+This is a simple code to analyze movies contained in a data base and to ask questions regarding the data within. This project is to improve my skills as a software developer. My purpose in analyzing the data is to see if there are patterns that can be observed with movies and how they are rated.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
-# Data Analysis Results
+Data Analysis Results
 
-{List the questions and the answers you found by doing this analysis.}
+Question one: Is there a connection between the popularity of a movie and a higher rating out of ten?
 
-# Development Environment
+Question two: Are there a higher rating on average for movies that have come out more recently?
+
+Development Environment
 
 {Describe the tools that you used to develop the software}
 
 {Describe the programming language that you used and any libraries.}
 
-# Useful Websites
+Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+[Youtube](http://url.link.goes.here)
+[Stack Overflow](http://stackoverflow.com)
+[W3 Schools](http://w3schools.com)
+[Kaggle](http://kaggle.com)
 
-# Future Work
+Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+1. Ask more questions to see how extensive the database is
+2. learn more about Pandas so that I can learn how to better filter the data.
+3. Incorporate some visualization so that the data is more easily understood instead of just being display on a terminal
+4. discover outliers in the data (if they exist)
+5. discover if this data set is even worth evaluating (large enough sample size, ratings reflect the general audience, etc)
